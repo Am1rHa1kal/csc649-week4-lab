@@ -1,14 +1,14 @@
 # Tech Stack Evaluation
 
 ## Project
-[Name of your Assignment 1 or FYP project, in one line]
+Web-Based SME Business Location Recommendation System using TOPSIS
 
 ## Requirements that drive the decision
 List 3 to 5 requirements from your own docs/requirements.md. Include at
 least 2 non-functional requirements.
 - [FR or NFR number]: [requirement]
 - [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
+- [FR or NFR number]: [requirement]  
 
 ## Options
 - Option A: [for example: static website (HTML and JavaScript) on GitHub Pages]
